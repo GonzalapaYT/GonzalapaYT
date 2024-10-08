@@ -4,4 +4,4 @@
 
 🌱 I’m currently learning: Python, C++, Lua, C#, JS.
 
-📫 How to contact me: Gonzalapa#3248 on discord.
+📫 How to contact me: Gonzalapa on discord.
